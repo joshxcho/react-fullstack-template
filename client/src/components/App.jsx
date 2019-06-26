@@ -9,7 +9,7 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <h1 className="title">MERN-Stack Template</h1>
+        <h1 className="title">Full-Stack Template</h1>
         <br />
         <p>Happy coding!</p>
       </div>
